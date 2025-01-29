@@ -24,6 +24,8 @@ public class Test {
 		// ChromeDriver driver1 =new ChromeDriver();
 
 		driver.manage().window().maximize();
+		driver.manage().window().maximize();
+
 
 		driver.get("https://demo.guru99.com/test/simple_context_menu.html");
 
